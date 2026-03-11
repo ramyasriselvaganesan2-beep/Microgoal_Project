@@ -1,0 +1,5 @@
+.
+├── src/          # Source code
+├── tests/        # Unit tests
+├── data/         # Data files
+└── README.md

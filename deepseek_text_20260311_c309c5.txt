@@ -1,0 +1,9 @@
+
+### 6. **Final Polish**  
+Run code formatters and linters.
+
+**Python:**
+```bash
+pip install black flake8
+black .           # auto-format
+flake8 .          # lint
